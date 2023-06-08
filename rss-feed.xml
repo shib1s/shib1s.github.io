@@ -8,10 +8,9 @@
             <link>https://shib1s.github.io/</link>
             <turbo:content>
                 <![CDATA[
-                    <header>
-		<h1>Пример простой страницы - здесь должен находиться текст.</h1>
+                	<header>
+				<h1>Пример простой страницы - здесь должен находиться текст.</h1>
 			</header>
-
                 ]]>
             </turbo:content>
         </item>
